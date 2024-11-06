@@ -31,7 +31,7 @@ Sinta-se à vontade para me chamar para trocar ideias, discutir projetos ou apen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rafael-ferreira-rodriguez-b691b8243)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leandrorafaelf2002@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999574843)
+
 
 ---
 
