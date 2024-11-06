@@ -17,4 +17,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e, embora atualmente nã
 
 
 ##  Contato 📫
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/leandro-rafael-ferreira-rodriguez-b691b8243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rafael-ferreira-rodriguez-b691b8243)
