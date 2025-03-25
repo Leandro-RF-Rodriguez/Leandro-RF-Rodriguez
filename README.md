@@ -1,12 +1,12 @@
-# 👾 Bem-vindo ao meu Perfil! 👾
+### 👾 Bem-vindo ao meu Perfil! 👾
 
-## Sobre Mim
+#### Sobre Mim
 
 Olá! Sou um estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução para me tornar desenvolvedor. Mesmo não atuando formalmente na área, estou sempre desenvolvendo projetos pessoais e explorando novas ferramentas para aperfeiçoar minhas habilidades!
 
 ---
 
-### 🚀 Tecnologias que Estou Aprendendo e Utilizando
+#### 🚀 Tecnologias que Estou Aprendendo e Utilizando
 
 #### 💻 Front-End:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,11 +26,11 @@ Olá! Sou um estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado
 
 ---
 
-### 🌐 Vamos Nos Conectar
+#### 🌐 Vamos Nos Conectar
 Sinta-se à vontade para me chamar para trocar ideias, discutir projetos ou apenas bater um papo sobre tecnologia!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rafael-ferreira-rodriguez-b691b8243)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leandrorafaelf2002@gmail.com)
+
 
 
 ---
